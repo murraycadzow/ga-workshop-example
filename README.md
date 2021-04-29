@@ -1,3 +1,3 @@
 # ga-workshop-example
 
-here is an edit for examle purposes
+here is an edit for example purposes
